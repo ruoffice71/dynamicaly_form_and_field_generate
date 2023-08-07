@@ -1,0 +1,16 @@
+.form_generate{
+    position: absolute;
+    top: 76px;
+    right: 117px;
+}
+.account_select .select2-selection__rendered::after {
+    content: "Select donor account(s)";
+    color: #999;
+    font-style: italic;
+    margin: auto;
+}
+.rowContainer .next_qtr{
+    width: 100%;
+    min-width: 7rem;
+    border: transparent;
+}
